@@ -1,0 +1,13 @@
+ NAME                TEL.NO              ADDRESS             Internet            PRICE(RM)           SPEED(mbps)         
+
+ Ali                 012-3456789         Selangor            Celcom              90.00               90                  
+
+ Ah Hong             019-5921468         Kedah               Time                89.00               60                  
+
+ Muthu               019-87654321        Perlis              TM Streaymx         66.00               1                   
+
+ NG KE RONG          016-5103373         Lunas,Kedah         Celcom              90.00               90                  
+
+ TONG SAM PAH        012-3456789         Lunas,Kedah         TM Unifi            119.00              100                 
+
+Thank you---------------------------------------------
