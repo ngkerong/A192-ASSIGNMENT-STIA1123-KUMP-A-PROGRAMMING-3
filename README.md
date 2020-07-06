@@ -1,1 +1,5 @@
 # A192-ASSIGNMENT-STIA1123-KUMP-A-PROGRAMMING-3
+
+## Name: Ng Ke Rong
+
+## No.Matrik : 271063
